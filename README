@@ -1,4 +1,2 @@
-This is your new Play 2.1 application
-=====================================
-
-This file will be packaged with your application, when using `play dist`.
+This is an example project to show that how Playorm's plugin can be used for Play framework 2.1.0 version.
+For more details, visit http://buffalosw.com/wiki/PlayFramework-2.x-support/
